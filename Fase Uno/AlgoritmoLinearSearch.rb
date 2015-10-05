@@ -5,7 +5,7 @@ class AlgoritmoLinearSearch
 	def initialize()
 		randomNumbers = [4, 3, 2, 20, 5, 64, 78, 11, 43]
 		arr = "entretenerse".split("")
-		linear_search(20, randomNumbers)
+		linear_search(29, randomNumbers)
 		global_linear_search("e", arr)
 	end
 
